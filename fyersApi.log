@@ -1,0 +1,1 @@
+{"level":"ERROR","location":"[get_call:164] fyersModel","message":{"API":"/history","Error":{"code":-50,"data":{"range_from":"range_from cannot be greater than current date"},"message":"Invalid input","s":"error"}},"timestamp":"2026-03-02 16:28:41,217+0530","service":"FyersAPI"}
